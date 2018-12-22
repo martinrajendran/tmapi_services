@@ -1,0 +1,11 @@
+com\tmapi\service\TaskManagerService.class
+com\tmapi\SpringBootWebApplication.class
+com\tmapi\to\TaskTO.class
+com\tmapi\util\DateUtils.class
+com\tmapi\controller\TaskManagerRestController.class
+com\tmapi\dao\TaskDAO.class
+com\tmapi\CORSConfig.class
+com\tmapi\model\Parent.class
+com\tmapi\model\Task.class
+com\tmapi\service\TaskManagerServiceImpl.class
+com\tmapi\dao\ParentDAO.class
